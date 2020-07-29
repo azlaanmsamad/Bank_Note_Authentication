@@ -7,3 +7,13 @@ This Repository is a self taught project in order to learn End to End Deployment
 
 2. [datasets_84803_196262_BankNote_Authentication.csv](https://github.com/azlaanmsamad/Bank_Note_Authentication/blob/master/datasets_84803_196262_BankNote_Authentication.csv) and [Test.csv](https://github.com/azlaanmsamad/Bank_Note_Authentication/blob/master/TestFile.csv)
     - There are the training and test csv files.
+
+3. DockerFile: As the name suggests it is the docker file.
+
+4. bank_note_classifier.pkl
+    - The trained classifier model.
+
+## Installation
+
+1. Clone the repository.
+2. Build the docker image using the command `docker build -t *image name you wish to give*`.
